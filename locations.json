@@ -1,0 +1,142 @@
+{
+  "version": 2,
+  "groups": [
+    {
+      "id": "regions",
+      "title": "Regions",
+      "categories": [
+        {
+          "id": "region",
+          "title": "Region",
+          "icon": "map.fill",
+          "color": "#FF4F8B"
+        }
+      ]
+    },
+    {
+      "id": "locations",
+      "title": "Locations",
+      "categories": [
+        {
+          "id": "district",
+          "title": "District",
+          "icon": "building.2.fill",
+          "color": "#0A84FF"
+        },
+        {
+          "id": "shopping",
+          "title": "Shopping",
+          "icon": "cart.fill",
+          "color": "#34C759"
+        },
+        {
+          "id": "industry",
+          "title": "Industry",
+          "icon": "building.columns.fill",
+          "color": "#FF9F0A"
+        }
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "id": "region-vice-city",
+      "category": "region",
+      "title": "Vice City",
+      "description": "The coastal metropolis and urban heart of Leonida: beaches, nightlife and the busiest streets in the state. Position on this map is approximate.",
+      "x": 0.768,
+      "y": 0.738,
+      "image": null
+    },
+    {
+      "id": "region-leonida-keys",
+      "category": "region",
+      "title": "Leonida Keys",
+      "description": "A tropical chain of islands linked by long bridges, known for beach bars and boating. Position on this map is approximate.",
+      "x": 0.577,
+      "y": 0.932,
+      "image": null
+    },
+    {
+      "id": "region-grassrivers",
+      "category": "region",
+      "title": "Grassrivers",
+      "description": "Wetlands and mangroves full of alligators. Best explored by airboat. Position on this map is approximate.",
+      "x": 0.69,
+      "y": 0.752,
+      "image": null
+    },
+    {
+      "id": "region-port-gellhorn",
+      "category": "region",
+      "title": "Port Gellhorn",
+      "description": "A fading former holiday town of cheap motels, closed attractions and empty strip malls. Position on this map is approximate.",
+      "x": 0.205,
+      "y": 0.16,
+      "image": null
+    },
+    {
+      "id": "region-ambrosia",
+      "category": "region",
+      "title": "Ambrosia",
+      "description": "Sugar country in the heart of Leonida, dominated by its refinery and a local biker gang. Position on this map is approximate.",
+      "x": 0.538,
+      "y": 0.396,
+      "image": null
+    },
+    {
+      "id": "region-mount-kalaga",
+      "category": "region",
+      "title": "Mount Kalaga National Park",
+      "description": "Wild country on the northern border with hunting, fishing and off-road trails. Position on this map is approximate.",
+      "x": 0.47,
+      "y": 0.16,
+      "image": null
+    },
+    {
+      "id": "vc-ocean-beach",
+      "category": "district",
+      "title": "Ocean Beach",
+      "description": "Vice City's beachfront district on the barrier island. Position on this map is approximate.",
+      "x": 0.885,
+      "y": 0.748,
+      "image": null
+    },
+    {
+      "id": "vc-little-cuba",
+      "category": "district",
+      "title": "Little Cuba",
+      "description": "A lively Vice City neighbourhood with Cuban food, music and culture. Position on this map is approximate.",
+      "x": 0.762,
+      "y": 0.792,
+      "image": null
+    },
+    {
+      "id": "vc-port",
+      "category": "industry",
+      "title": "VC Port",
+      "description": "The Vice City cargo port with container cranes and freight yards. Position on this map is approximate.",
+      "x": 0.816,
+      "y": 0.798,
+      "image": null
+    },
+    {
+      "id": "vc-tisha-wocka",
+      "category": "shopping",
+      "title": "Tisha-Wocka Flea Market",
+      "description": "A sprawling Vice City flea market full of stalls and bargains. Position on this map is approximate.",
+      "x": 0.818,
+      "y": 0.734,
+      "image": null
+    },
+    {
+      "id": "amb-allied-crystal",
+      "category": "industry",
+      "title": "Allied Crystal Refinery",
+      "description": "The huge sugar refinery that keeps Ambrosia running. Position on this map is approximate.",
+      "x": 0.575,
+      "y": 0.432,
+      "image": null
+    }
+  ]
+}
